@@ -18,7 +18,7 @@
 
 ## How to reach me
 - Contact me at [mark.arnaez29@gmail.com](mailto:mark.arnaez29@gmail.com)
-- Checkout my [resume](https://htmlpreview.github.io/?https://raw.githubusercontent.com/markarnaez/markarnaez/main/resume.html?sanitize=true) here [📝](https://htmlpreview.github.io/?https://raw.githubusercontent.com/markarnaez/markarnaez/main/resume.html?sanitize=true)
+- Checkout my resume here [📝](https://htmlpreview.github.io/?https://raw.githubusercontent.com/markarnaez/markarnaez/main/resume.html?sanitize=true), download it from here [⬇️](https://github.com/markarnaez/markarnaez/raw/main/markarnaez-resume.pdf) 
 
 ## Find me around the web
 [LinkedIn](https://https://linkedin.com/in/mark-anthony-arnaez) | [Dev](https://dev.to/markarnaez) | [Instagram](https://instagram.com/watashiwazero) | [Facebook](https://fb.com/markanthony.arnaez) | [Medium]( https://medium.com/@markarnaez)
