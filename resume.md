@@ -6,7 +6,7 @@
 
 <span class="info">
 
-[![GitHub:](https://simpleicons.org/icons/github.svg)](https://github.com/markarnaez) · [![LinkedIn:](https://simpleicons.org/icons/linkedin.svg)](https://linkedin.com/in/mark-anthony-arnaez) · [![Mail:](https://simpleicons.org/icons/gmail.svg)](mailto:mark.arnaez29@gmail.com) mark.arnaez29@gmail.com · [![Location:](https://simpleicons.org/icons/googlemaps.svg) Philippines]() · [+639275876685]()
+[![GitHub:](https://simpleicons.org/icons/github.svg)](https://github.com/markarnaez) · [![LinkedIn:](https://simpleicons.org/icons/linkedin.svg)](https://linkedin.com/in/mark-anthony-arnaez) · [![Mail:](https://simpleicons.org/icons/gmail.svg)](mailto:mark.arnaez29@gmail.com) mark.arnaez29@gmail.com · [![Location:](https://simpleicons.org/icons/googlemaps.svg) Philippines](https://en.wikipedia.org/wiki/Philippines) · [+639275876685](tel:+639275876685)
 
 </span>
 
