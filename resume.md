@@ -26,7 +26,7 @@
 
 ## Skills
 
-**Technology:** `Java` `Springboot` `Tomcat` `Hadoop` `HDFS` `HBase` `Hive` `MySQL` `Mapr` `Kafka` `KSql` `HDFS` `Hadoop` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP`
+**Technology:** `Java` `Springboot` `Tomcat` `Hadoop` `HDFS` `HBase` `Hive` `MySQL` `Mapr` `Kafka` `KSql` `HDFS` `Hadoop` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git`
 
 **Technical:** `Troubleshooting` `Debugging` `Analytical Thinking` `Problem Solving` `Testing` `DevOps` `Agile` `SDLC` `Coding` `Backend` `Database` `API` `Big Data` `Automation` `Scripting` `Version Control`
 
