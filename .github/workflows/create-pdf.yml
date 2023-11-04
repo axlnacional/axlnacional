@@ -35,8 +35,23 @@ jobs:
 
       - name: "Convert HTML to PDF "
         run: "wkhtmltopdf --page-size Letter --user-style-sheet resume-stylesheet.css --margin-left 0.5in --margin-right 0.5in --margin-top 0.5in --margin-bottom 0.5in --enable-local-file-access output/${{github.actor}}-resume.html output/${{github.actor}}-resume.pdf"
-      # run: |
-      #     /usr/bin/pandoc -standalone --output=output/resume.pdf --css=resume-stylesheet.css --from=markdown --to=pdf --pdf-engine=/usr/bin/wkhtmltopdf resume.md
+
+      - name: Commit files
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions"
+          git add output/
+          git commit -m "Add generated files" 
+          echo "::set-output name=push::true"
+        shell: bash
+
+      - name: Push changes
+        if: steps.commit.outputs.push == 'true'
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+        
       - uses: actions/upload-artifact@master
         with: # basically this will put resume.md, resume.html, resume.pdf and resume-stylesheet.css in a zip file.
           name: ${{ github.actor }}'s Resume
