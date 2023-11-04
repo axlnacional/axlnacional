@@ -1,18 +1,18 @@
 <link rel="stylesheet" type="text/css" href="resume-stylesheet.css">
 
-<span class="quote" style="color: gray; font-size: 0.8rem;">~ 2023-07-03 ~</span>
+<!-- <span class="quote" style="color: gray; font-size: 0.8rem;">~ 2023-11-05 ~</span> -->
 
 # Mark Anthony Arnaez
 
-<span class="info">
+<div class="info">
 
 [![GitHub:](https://simpleicons.org/icons/github.svg)](https://github.com/markarnaez) · [![LinkedIn:](https://simpleicons.org/icons/linkedin.svg)](https://linkedin.com/in/mark-anthony-arnaez) · [![Mail:](https://simpleicons.org/icons/gmail.svg)](mailto:mark.arnaez29@gmail.com) mark.arnaez29@gmail.com · [![Location:](https://simpleicons.org/icons/googlemaps.svg) Philippines](https://en.wikipedia.org/wiki/Philippines) · [+639275876685](tel:+639275876685)
 
-</span>
+</div>
 
-<span class="quote">
+<div class="quote">
 "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
-</span>
+</div>
 
 ## Profile Summary
 
@@ -26,31 +26,42 @@
 
 ## Skills
 
-**Technology:** `Java` `Springboot` `Tomcat` `Hadoop` `HDFS` `HBase` `Hive` `MySQL` `Mapr` `Kafka` `KSql` `HDFS` `Hadoop` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git`
-
-**Technical:** `Troubleshooting` `Debugging` `Analytical Thinking` `Problem Solving` `Testing` `DevOps` `Agile` `SDLC` `Coding` `Backend` `Database` `API` `Big Data` `Automation` `Scripting` `Version Control`
+`Java` `Springboot` `Tomcat` `Hadoop` `HDFS` `HBase` `Hive` `MySQL` `Mapr` `Kafka` `KSql` `HDFS` `Hadoop` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git` `GitHub` `OOP` `REST` `Web Services`
+`DevOps` `Agile` `SDLC` `Coding` `Backend` `Database` `API` `Big Data` `Automation` `Scripting` `Version Control`
 
 ## Experiences
 
-### Software Development Specialist <time>May 2017 - Present</timme>
+### Amdocs, Philippines
 
-#### <location>Amdocs Inc. - Philippines</location>
+#### Software Engineering Specialist <time>September 2021 - Present</time>
 
-- **R&D Core Team** - Evaluates and implement enhancements to the core product, driving continuous improvement and ensuring the product remains robust and up-to-date with evolving requirements and industry standards.
-- **Solution Architect** - Engages with clients, creates design solution documents, and prepares detailed design guides for seamless implementation of interfaces.
-- **Kafka Data Stream** - Proficiently acquired and utilized KSQL and Confluent through extensive research, implemented real-time data processing solutions, developed a custom REST API plugin, and built an external Kafka application for reliable system communication.
-- **Product Key Person** - A key resource providing comprehensive support and expertise in application management, including initiating and spearheading custom projects, managing transformation processes and change requests, collaborating with Solution Architects, mentoring junior developers, providing support for testing and deployment, and actively contributing to project aspects for ensuring software quality and stability.
-- **Release Manager** - Effectively maintains and manages project source code using Git and Bitbucket server, handling code branch merging, creating product RPM packages, designing release notes, managing lab environments, leading training sessions, implementing standardized guidelines, and designing a tailored branching strategy for efficient collaboration and streamlined code integration processes.
-- **Java Developer** - Developed multiple plugins to enhance the core product application's integration capabilities, leveraging Java and Eclipse IDE to build robust components, conducting thorough handovers to the testing team, providing ongoing support during testing, and performing debugging on the core codebase to identify and resolve issues.
-- **Deployment Automation** -Automated the deployment process of a web application package to multiple environment nodes using an Ansible playbook, designing and developing complex playbooks and tasks, developing Python scripts for XML file processing, and significantly increasing efficiency and productivity.
+- Transitioned successfully from a project-level role to a core position within the Research and Development (R&D) unit."
+- Introduced two new primary features to the existing core product, leveraging Java.
+- Rectified multiple core product issues by leveraging the Eclipse Debugging feature and delivered production hotfixes through patched JAR files
+- Implemented standardized guidelines and designed a tailored branching strategy for efficient collaboration and streamlined code integration processes.
+- Acquired and proficiently utilized KSQL and Confluent through extensive research, implementing real-time data processing Kafka solutions via an HTTP Sink Connector.
 
-### Associate Software Engineer <time>Feb 2015 - May 2017</time>
+#### Software Engineer (Advanced)<time>April 2020 - August 2021</time>
 
-#### <location>Accenture Inc. - Philippines</location>
+- Collaborated with Solution Architects and various stakeholders to formulate and design adaptable solutions for addressing customer change requests.
+- Delivered precise effort estimations and created a thorough technical design for the implementation.
+- Initiated and developed an automated deployment tool utilizing Ansible with intricate playbooks and Shell/Python scripts which led to a remarkable 70% reduction in deployment duration and complexity, resulting in heightened operational efficiency and a substantial decrease in deployment errors.
+- Guided and mentored junior team members in various development aspects and tasks, including code reviews and fostering best practices.
 
-- **CI/CD for Fusion Middleware** - Designed and developed a DevOps-based continuous integration and delivery system utilizing Bitbucket, Nexus, Bamboo, and Ansible, with developed Bamboo build plans for automatic code building and notification, an Ansible playbook for deployment triggered by Bamboo, system implementation and support including enhancements and issue resolution, and close collaboration with clients for problem specification and system requirement establishment.
-- **HCM Automation** - Automates the transaction performed in the Oracle HCM website utilizing DevOps tools such as Git, Gerrit, Selenium, and Jenkins.
-- **EDI Order Reconciliation** - Automated the reconciliation process of EDI orders for the Application Maintenance team by leveraging common bash commands, streamlining and simplifying the order reconciliation workflow.
+#### Software Engineer <time>May 2017 - March 2020</time>
+
+- Pioneered and executed the customization of the core product for a prominent Telco client in APAC, actively collaborating with the client to develop tailored solutions that align with their unique business requirements.
+- Innovated and documented in Confluence the initial deployment process, then spearheaded the first deployment of the customized product on a Linux environment.
+- Developed and integrated multiple custom Java plugins for both inbound and outbound connection for various external systems.
+- Maintained and managed project source code using Git and Bitbucket server, handled branch merging, created product RPM artifacts, designed release notes and managed lab environments.
+- Delivered extensive support and expertise across all project facets, encompassing solutions, development, testing, and production, to ensure software quality and stability.
+
+### Accenture, Philippines
+
+#### Associate Software Engineer <time>Feb 2015 - March 2017</time>
+
+- Designed and developed a DevOps-based continuous integration and delivery system utilizing Bitbucket, Nexus, Bamboo, and Ansible, with developed Bamboo build plans for automatic code building and notification, an Ansible playbook for deployment triggered by Bamboo, system implementation and support including enhancements and issue resolution, and close collaboration with clients for problem specification and system requirement establishment.
+- Automated the transaction performed in the Oracle HCM website utilizing DevOps tools such as Git, Gerrit, Selenium, and Jenkins.
 
 ## Education
 
@@ -78,3 +89,4 @@
     </ul>
   </div>
 </div>
+
