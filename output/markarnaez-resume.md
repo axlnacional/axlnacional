@@ -88,7 +88,6 @@
       <li>Docker - Udemy - <i>2019</i></li>
       <li>Jenkins - Udemy - <i>2020</i></li>
       <li>Kubernetes - LinkedIn Learning - <i>2023</i></li>
-      <li>Kubernetes - LinkedIn Learning - <i>2023</i></li>
     </ul>
   </div>
 </div>
