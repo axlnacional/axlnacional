@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="resume-stylesheet.css">
 
-<!-- <span class="quote" style="color: gray; font-size: 0.8rem;">~ 2023-11-05 ~</span> -->
+<!-- <span class="quote" style="color: gray; font-size: 0.8rem;">~ 2024-01-21 ~</span> -->
 
 # Mark Anthony Arnaez
 
@@ -10,23 +10,17 @@
 
 </div>
 
-<div class="quote">
+<!-- <div class="quote">
 "~ Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. ~"
-</div>
+</div> -->
 
 ## Profile Summary
 
-- With over 8 years of experience as a highly motivated Software Engineer, adept at developing intricate solutions, integrations, and automation, demonstrating a strong sense of self-direction and client-focused approach.
-- Engaging directly with clients, adeptly gathering comprehensive business requirements and skillfully crafting tailored solutions to meet their unique needs.
-- Renowned for being an actively engaged and proactive team player, consistently showcasing exceptional contributions and a commitment to achieving the team's objectives.
-- Consistently demonstrating a passionate zeal for software development, automation, integration, and continuous learning.
-- Exhibiting proactive behavior by taking the initiative to accomplish tasks effectively.
-- Demonstrating a strong sense of competitiveness and reliability, a commitment to assuming ownership of assigned tasks and responsibilities is evident, ensuring a diligent and accountable approach.
-- Proven ability to deliver high-quality software products within demanding project timelines.
+Seasoned Software Engineer with over 8 years of hands-on experience, dedicated to creating innovative solutions that seamlessly align with client needs. Adept at direct client engagement, specializing in crafting tailored software solutions that bridge the gap between technology and business objectives. Proven problem-solver with a proactive approach, recognized for consistently achieving collective goals and fostering a culture of growth within dynamic team environments. A continuous learner in the ever-evolving landscape of software development.
 
 ## Skills
 
-`Java` `Springboot` `Hadoop` `HBase` `Hive` `SQL` `NoSQL` `Mapr` `Kafka` `KSql` `HDFS` `Hadoop` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git` `GitHub` `OOP` `REST` `Web Services` `DevOps` `Agile` `SDLC` `Backend` `Database` `API` `Big Data` `CI/CD`
+`Java` `Springboot` `Hadoop` `HBase` `Hive` `SQL` `NoSQL` `Mapr` `Kafka` `KSql` `HDFS` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git` `GitHub` `OOP` `REST` `Web Services` `DevOps` `Agile` `SDLC` `Backend` `Database` `API` `Big Data` `CI/CD`
 
 ## Experiences
 
@@ -34,36 +28,38 @@
 
 #### *Software Engineering Specialist* <time>September 2021 - Present</time>
 
-- Transitioned successfully from a project-level role to a core position within the Research and Development (R&D) unit.
-- Introduced 2 new primary features to the existing core product as per client's needs, leveraging Java.
-- Rectified multiple core product issues by utilizing the Eclipse Debugging feature and delivered production hotfixes through patched JAR files
-- Implemented standardized development workflow and designed a tailored branching strategy for efficient collaboration and streamlined code integration processes.
-- Acquired and proficiently utilized KSQL and Confluent through extensive research, implementing real-time data processing Kafka solutions via an HTTP Sink Connector.
+- Advanced to a key role within the Research and Development (R&D) unit, contributing significantly to the project's success.
+- Introduced 3 critical features to the core product, using Java, in response to client requirements.
+- Addressed core product issues by delivering hotfixes and demonstrated expertise in debugging remote applications using Eclipse.
+- Implemented a standardized development workflow and crafted a tailored branching strategy, enhancing collaboration and code integration efficiency.
+- Explored KSQL and Confluent, translating findings into a real-time data processing feature with Kafka and HTTP Sink Connector.
+- Led a Proof of Concept for a microservices migration initiative, showcasing proficiency in React, JavaScript, HTML, and CSS  for frontend development.
 
 #### *Software Engineer (Advanced)* <time>April 2020 - August 2021</time>
 
-- Collaborated with Solution Architects and various stakeholders to formulate and design adaptable solutions for addressing customer change requests.
-- Delivered precise effort estimations and created a thorough technical design for development implementation.
-- Initiated and developed an automated deployment tool utilizing Ansible with intricate playbooks and Shell/Python scripts which led to a remarkable 70% reduction in deployment duration and complexity, resulting in heightened operational efficiency and a substantial decrease in deployment errors.
-- Guided and mentored junior team members in various development aspects and tasks, including code reviews and fostering best practices.
-- Delivered extensive support and expertise across all project facets, encompassing solutions, development, testing, and production, to ensure software quality and stability.
+- Worked closely with Solution Architects to offer precise effort estimations, create detailed technical designs, and implement solutions for development, ensuring seamless execution.
+- Developed an Ansible-based automated deployment tool, reducing deployment duration by 70%.
+- Mentored junior team members, providing guidance in various development aspects, conducted code reviews, and promoted best practices.
+- Provided extensive support across project phases, resulting in a 15% reduction in software defects.
+- Played a key role in ensuring software quality and stability through active involvement in solutions, development, testing, and production.
 
 #### *Software Engineer* <time>May 2017 - March 2020</time>
 
-- Pioneered and executed the customization of the core product for a prominent Telco client in APAC, actively collaborating with the client to develop tailored solutions that align with their unique business requirements.
-- Innovated and documented in Confluence the initial deployment process, then spearheaded the first deployment of the customized product on a Linux environment.
-- Developed and integrated multiple custom Java plugins for both inbound and outbound connection for various external systems.
-- Implemented over 20 major features for the customization initiative, establishing myself as a main contributor to the overall project.
-- Maintained and managed project source code using Git and Bitbucket server, handled branch merging, created product RPM artifacts, designed release notes and managed lab environments.
+- Customized the core product for a prominent Telco client in APAC, collaborating closely to develop tailored solutions aligned with their business requirements.
+- Innovated and documented the initial deployment process in Confluence, leading the first deployment of the customized product on a Linux environment.
+- Developed and integrated multiple custom Java plugins for inbound and outbound connections to various external systems.
+- Implemented over 20 major features, establishing a significant contribution to the project.
+- Managed project source code using Git and Bitbucket server, handling branch merging, creating product RPM artifacts, designing release notes, and managing lab environments.
 
 ### Accenture, Philippines
 
 #### *Associate Software Engineer* <time>Feb 2015 - March 2017</time>
 
 - Designed and developed a DevOps-based CI/CD system utilizing Bitbucket, Nexus, Bamboo, and Ansible.
-- Developed Bamboo build plans for automatic code building and notification.
-- Created Ansible playbook for application deployment triggered by Bamboo.
-- Automated the transaction performed in the Oracle HCM website utilizing Selenium Web Driver, and Jenkins.
+- Created Bamboo build plans, resulting in a significant 30% reduction in code building time.
+- Developed Ansible playbooks to automate application deployment triggered by Bamboo, enhancing deployment efficiency and reliability.
+- Automated transactions on the Oracle HCM website using Selenium Web Driver and Jenkins, contributing to improved workflow efficiency.
+- Demonstrated proficiency in Oracle SOA (Service-Oriented Architecture) and OSB (Oracle Service Bus) within the Fusion Middleware technologies, contributing to the successful implementation of integration solutions
 
 ## Education
 
