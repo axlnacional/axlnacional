@@ -7,8 +7,7 @@
 
 ## About me
 
-- Currently working as Software Development Specialist at [AMDOCS](https://amdocs.com) (Philippines)
-- Helping Telco companies on their journey to full digital enablement using personalized, contextual customer engagement 
+- Currently working as Associate Vice President at [JPMorgan Chase & Co.][https://www.jpmorganchase.com) (Philippines)
 - Love for innovation and continues learning
 - Passionate about problem-solving, software development, and automation
 - Developing since 2015 with 8+ years of experience in Enterprise-wide software development
