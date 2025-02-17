@@ -16,17 +16,27 @@
 
 ## Profile Summary
 
-Seasoned Software Engineer with over 8 years of hands-on experience, dedicated to creating innovative solutions that seamlessly align with client needs. Adept at direct client engagement, specializing in crafting tailored software solutions that bridge the gap between technology and business objectives. Proven problem-solver with a proactive approach, recognized for consistently achieving collective goals and fostering a culture of growth within dynamic team environments. A continuous learner in the ever-evolving landscape of software development.
+Seasoned Software Engineer with over 10 years of hands-on experience in developing innovative software solutions that drive business success. Skilled in aligning technology with client objectives, with a proven track record of delivering critical features on time and improving system performance. Expertise in leading cross-functional teams, implementing complex solutions, and driving continuous improvements. Committed to staying ahead of emerging technologies and actively contributing to team growth and knowledge sharing.
 
 ## Skills
 
-`Java` `Springboot` `Hadoop` `HBase` `Hive` `SQL` `NoSQL` `Mapr` `Kafka` `KSql` `HDFS` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git` `GitHub` `OOP` `REST` `Web Services` `DevOps` `Agile` `SDLC` `Backend` `Database` `API` `Big Data` `CI/CD`
+`Java` `Springboot` `Hadoop` `HBase` `Hive` `SQL` `NoSQL` `Mapr` `Kafka` `KSql` `HDFS` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git` `GitHub` `OOP` `REST` `Web Services` `DevOps` `Agile` `SDLC` `Backend` `Database` `API` `Big Data` `CI/CD` `Cassandra` `Mockito` `JUnit`
 
 ## Experiences
 
+### JPMorganChase, Philippines
+
+#### *Software Engineer III - AVP* <time>April 2024 - Present</time>
+
+- Migrated 7 Spring Boot APIs from Cassandra to Oracle/JPA, achieving over 90% JUnit code coverage and ensuring seamless data integration and system performance post-migration.
+- Performed comprehensive environment health checks and developed automated solutions to streamline monitoring tasks, improving system reliability and reducing manual oversight by 30%.
+- Configured and optimized CI/CD pipelines for deploying applications across multiple servers, resulting in a 40% reduction in deployment times and improved consistency across environments.
+- Engineered a utility to compare API results between two servers, providing key performance metrics such as time differences and matching/mismatching JSON response bodies, enabling quicker identification of discrepancies and enhancing troubleshooting.
+- Developed a SIT testing utility using FitNesse, which automatically compares application results between Production and the system under test, enabling early bug detection and reducing defect rate by 25% during new development cycles.
+
 ### Amdocs, Philippines
 
-#### *Software Engineering Specialist* <time>September 2021 - Present</time>
+#### *Software Engineering Specialist* <time>September 2021 - March 2024</time>
 
 - Advanced to a key role within the Research and Development (R&D) unit, contributing significantly to the project's success.
 - Introduced 3 critical features to the core product, using Java, in response to client requirements.
@@ -53,7 +63,7 @@ Seasoned Software Engineer with over 8 years of hands-on experience, dedicated t
 
 ### Accenture, Philippines
 
-#### *Associate Software Engineer* <time>Feb 2015 - March 2017</time>
+#### *Associate Software Engineer* <time>February 2015 - April 2017</time>
 
 - Designed and developed a DevOps-based CI/CD system utilizing Bitbucket, Nexus, Bamboo, and Ansible.
 - Created Bamboo build plans, resulting in a significant 30% reduction in code building time.
