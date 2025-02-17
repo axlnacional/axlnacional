@@ -8,10 +8,9 @@
 
 <!-- [![GitHub:](https://cdn.simpleicons.org/github?viewbox=auto)](https://github.com/markarnaez) · [![LinkedIn:](https://cdn.simpleicons.org/linkedin?viewbox=auto)](https://linkedin.com/in/mark-anthony-arnaez) · [![Mail:](hhttps://cdn.simpleicons.org/gmail?viewbox=auto)](mailto:mark.arnaez29@gmail.com) mark.arnaez29@gmail.com · [![Location:](https://simpleicons.org/icons/googlemaps.svg) Philippines](https://en.wikipedia.org/wiki/Philippines) · [+639275876685](tel:+639275876685) -->
 
-https://github.com/markarnaez · https://linkedin.com/in/mark-anthony-arnaez · mark.arnaez29@gmail.com · Philippines · [+639275876685](tel:+639275876685)
+https://github.com/markarnaez · mark.arnaez29@gmail.com · Philippines · [+639275876685](tel:+639275876685)
 
 </div>
-https://simpleicons.org/?modal=icon&q=github
 
 <!-- <div class="quote">
 "~ Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. ~"
