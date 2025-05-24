@@ -2,11 +2,11 @@
 
 <!-- <span class="quote" style="color: gray; font-size: 0.8rem;">~ 2024-01-21 ~</span> -->
 
-# Mark Anthony Arnaez
+# Ax'l Jean A. Nacional
 
 <div class="info">
 
-https://github.com/markarnaez · mark.arnaez29@gmail.com · Philippines · [+639275876685](tel:+639275876685)
+https://github.com/axlnacional · axljeanayalin@gmail.com · Philippines · [+639166278431](tel:+639166278431)
 
 </div>
 
@@ -16,85 +16,122 @@ https://github.com/markarnaez · mark.arnaez29@gmail.com · Philippines · [+639
 
 ## Profile Summary
 
-Seasoned Software Engineer with over 10 years of hands-on experience in developing innovative software solutions that drive business success. Skilled in aligning technology with client objectives, with a proven track record of delivering critical features on time and improving system performance. Expertise in leading cross-functional teams, implementing complex solutions, and driving continuous improvements. Committed to staying ahead of emerging technologies and actively contributing to team growth and knowledge sharing.
+Cloud-focused System Engineer with over 8 years of experience in designing, deploying, and supporting scalable infrastructure solutions across enterprise environments. Demonstrates deep expertise in Linux/Unix (RedHat, CentOS/Rocky, Kali, SLES, Ubuntu) and Windows Server (2009–2022), with a strong emphasis on cloud platforms including AWS, Google Cloud Platform (GCP), and Microsoft Azure. Skilled in automating cloud operations using Shell, Batch, and PowerShell scripting to enhance system reliability and reduce manual overhead. Adept at troubleshooting complex issues, optimizing cloud resources, and implementing best practices for security and performance. Highly adaptable, proactive, and collaborative—committed to continuous learning and delivering cloud-native solutions that drive business value.
 
 ## Skills
 
-`Java` `Springboot` `Hadoop` `HBase` `Hive` `SQL` `NoSQL` `Mapr` `Kafka` `KSql` `HDFS` `Linux` `Shell` `Python` `JavaScript` `Ansible` `Jenkins` `Maven` `HTTP` `XML` `JSON` `SOAP` `Git` `GitHub` `OOP` `REST` `Web Services` `DevOps` `Agile` `SDLC` `Backend` `Database` `API` `Big Data` `CI/CD` `Cassandra` `Mockito` `JUnit`
+### Technology
+`MS Windows Server` `Linux` `Unix` `Ubuntu` `RHEL` `Centos` `Kali` `SLES` `AWS` `GCP` `Azure` `Cloud` `Tomcat` `Nginx` `IIS` `Icinga` `DataDog` `Alertra` `PRTG` `Grafana` `Bitbucket` `GitHub` `SVN` `Jira` `ServiceDesk` `SalesForce` `Splunk` `ServiceNow` `MySQL` `Java` `HTML` `Python` `Bash` `PowerShell` `OS Hardening/SRA` `LAMP servers` `DHCP` `DNS` `FTP` `NTP` `SMTP` `passwordless` `SFTP` `Samba` `NFS` `Pentaho/ETL` `SAP BO` `Ansible Tower` `Terraform` `Cygwin` `MSSQL` `Oracle`
+
+### Technical
+`Installation of services` `Automation` `Documentation` `Analytical thinking` `Troubleshooting` `Software development life cycle` `Fast learner` `Out of box thinker` `Fluent in English written and verbal communication`
 
 ## Experiences
 
-### JPMorganChase, Philippines
+### Puma Sports Philippines Inc., Philippines
 
-#### *Software Engineer III - AVP* <time>April 2024 - Present</time>
+#### *Infrastructure Specialist - System and Network* <time>November 2024 - Present</time>
 
-- Migrated 7 Spring Boot APIs from Cassandra to Oracle/JPA, achieving over 90% JUnit code coverage and ensuring seamless data integration and system performance post-migration.
-- Performed comprehensive environment health checks and developed automated solutions to streamline monitoring tasks, improving system reliability and reducing manual oversight by 30%.
-- Configured and optimized CI/CD pipelines for deploying applications across multiple servers, resulting in a 40% reduction in deployment times and improved consistency across environments.
-- Engineered a utility to compare API results between two servers, providing key performance metrics such as time differences and matching/mismatching JSON response bodies, enabling quicker identification of discrepancies and enhancing troubleshooting.
-- Developed a SIT testing utility using FitNesse, which automatically compares application results between Production and the system under test, enabling early bug detection and reducing defect rate by 25% during new development cycles.
+- Deliver 24/7 global L2/L3 support for cloud and on-prem systems, ensuring high availability and rapid resolution of incidents and service requests.
+- Perform Azure administration tasks, including resource provisioning, identity and access management, and monitoring to support scalable and secure cloud operations.
+- Manage and maintain network infrastructure components such as firewalls, switches, SSL portals, and wireless access points, supporting secure connectivity.
+- Administer and audit Active Directory (AD) security groups and objects to support identity governance across hybrid environments.
+- Maintain and enhance IT security systems, including web filtering and endpoint protection, to safeguard cloud and enterprise environments.
 
-### Amdocs, Philippines
+### Cardinal Health International, Philippines
 
-#### *Software Engineering Specialist* <time>September 2021 - March 2024</time>
+#### *Cloud Engineer (Infrastructure)* <time>OctoberJanuary 2024 - Nov 2024</time>
 
-- Advanced to a key role within the Research and Development (R&D) unit, contributing significantly to the project's success.
-- Introduced 3 critical features to the core product, using Java, in response to client requirements.
-- Addressed core product issues by delivering hotfixes and demonstrated expertise in debugging remote applications using Eclipse.
-- Implemented a standardized development workflow and crafted a tailored branching strategy, enhancing collaboration and code integration efficiency.
-- Explored KSQL and Confluent, translating findings into a real-time data processing feature with Kafka and HTTP Sink Connector.
-- Led a Proof of Concept for a microservices migration initiative, showcasing proficiency in React, JavaScript, HTML, and CSS  for frontend development.
+- Manage and support hybrid cloud infrastructure across AWS, GCP, and on-prem environments, ensuring high availability and performance.
+- Respond to and resolve internal client requests, including break/fix issues and enhancement tasks, while maintaining service level agreements.
+- Perform routine system maintenance, patching, and configuration changes to optimize infrastructure health and compliance.
+- Develop and maintain automation scripts using PowerShell, Bash, and Python to streamline operational tasks and improve efficiency.
+- Monitor infrastructure and application health using enterprise monitoring tools, proactively addressing potential issues.
+- Collaborate with cross-functional teams to support infrastructure-as-code practices and CI/CD pipeline automation.
+- Maintain and enhance internal knowledge bases, contributing to documentation and process improvement initiatives.
+- Participate in on-call rotation to provide 24/7 support coverage for critical systems and services.
+- Ensure compliance with security standards and frameworks such as ITIL, PCI, ISO 27001, and SOX.
+- Administer and troubleshoot systems including Windows, Linux, Active Directory, DNS, and storage technologies.
+- Apply critical thinking and prioritization to manage multiple tasks and projects with minimal supervision.
 
-#### *Software Engineer (Advanced)* <time>April 2020 - August 2021</time>
+#### Projects
+- **Gold Image (GCP)** - Maintained and standardized GCP Gold Images for multiple operating systems, including Windows Server (2012, 2019, 2022) and Linux distributions (CentOS 7, Rocky 8, RHEL 6–8, SLES 12.2–15), ensuring monthly updates with the latest security patches and compliance with organizational standards. Leveraged Terraform for infrastructure-as-code, Git for version control, and Concourse CI for automating the image build and deployment pipeline.
+- **Cross-platform auditing script ** - Developed and implemented a cross-platform auditing script using PowerShell and Bash to scan over 1,000 Windows and Linux servers, verifying the successful addition or removal of specific Active Directory (AD) groups. The solution was integrated and executed via Tanium, enabling automated, scalable, and efficient compliance checks across the enterprise environment.
 
-- Worked closely with Solution Architects to offer precise effort estimations, create detailed technical designs, and implement solutions for development, ensuring seamless execution.
-- Developed an Ansible-based automated deployment tool, reducing deployment duration by 70%.
-- Mentored junior team members, providing guidance in various development aspects, conducted code reviews, and promoted best practices.
-- Provided extensive support across project phases, resulting in a 15% reduction in software defects.
-- Played a key role in ensuring software quality and stability through active involvement in solutions, development, testing, and production.
+### Deltek Systems Ltd., Philippines
 
-#### *Software Engineer* <time>May 2017 - March 2020</time>
+#### *Senior Cloud Engineer* <time>November 2021 - January 2024</time>
 
-- Customized the core product for a prominent Telco client in APAC, collaborating closely to develop tailored solutions aligned with their business requirements.
-- Innovated and documented the initial deployment process in Confluence, leading the first deployment of the customized product on a Linux environment.
-- Developed and integrated multiple custom Java plugins for inbound and outbound connections to various external systems.
-- Implemented over 20 major features, establishing a significant contribution to the project.
-- Managed project source code using Git and Bitbucket server, handling branch merging, creating product RPM artifacts, designing release notes, and managing lab environments.
+#### Projects
+- **Project Migration UTM to Palo Alto** - Successfully led the seamless migration of an enterprise's Unified Threat Management (UTM) infrastructure to Palo Alto Networks, enhancing security and efficiency while ensuring uninterrupted business operations.
+- **Project NSAFT set-up for more than 1000 servers** - Implemented and configured SAF-T (Standard Audit File for Tax) across 1000 servers, streamlining financial data reporting and compliance processes with exceptional accuracy and efficiency.
+- **Project Automation of SSL Certificate Renewal via Ansible Tower** - Engineered and executed a robust automation solution utilizing Ansible Tower to streamline SSL certificate renewal processes, resulting in enhanced security, minimized downtime, and efficient management across diverse server environments.
+- **Project OS Upgrade from Windows 2012 to 2019 for more than 1000 servers** - Effectively spearheaded a large-scale operating system upgrade initiative, seamlessly transitioning over 1000 servers from Windows Server 2012 to Windows Server 2019, ensuring enhanced performance, adhering to tight deadlines, and minimizing disruptions.
+- **Project Disaster Region simulation every year** - Organized and executed annual disaster region simulations, facilitating comprehensive preparedness and response testing, and ensuring effective crisis management and resource allocation.
+- **Project Incubator (migration from AWS to GCP)** - Efficiently orchestrated the seamless migration of infrastructure from AWS to GCP, concurrently transitioning from Windows to Linux environments, resulting in enhanced scalability, cost optimization, and improved system performance.
 
-### Accenture, Philippines
+### DTN Philippines Inc., Philippines
 
-#### *Associate Software Engineer* <time>February 2015 - April 2017</time>
+#### *System Support Engineer* <time>October 2019 - Nov 2021</time>
 
-- Designed and developed a DevOps-based CI/CD system utilizing Bitbucket, Nexus, Bamboo, and Ansible.
-- Created Bamboo build plans, resulting in a significant 30% reduction in code building time.
-- Developed Ansible playbooks to automate application deployment triggered by Bamboo, enhancing deployment efficiency and reliability.
-- Automated transactions on the Oracle HCM website using Selenium Web Driver and Jenkins, contributing to improved workflow efficiency.
-- Demonstrated proficiency in Oracle SOA (Service-Oriented Architecture) and OSB (Oracle Service Bus) within the Fusion Middleware technologies, contributing to the successful implementation of integration solutions
+- Responsible for the incident, request, problem, and change request process.
+- Handle and monitor platforms such as Icinga, PRTG, Alertra, Grafana, DataDog, VictorOps (Splunk), Spacewalk, and other company-owned tools. 
+- Analyze and fix incidents on quick outage recovery and provide root cause analysis.
+- Configure user accounts and profiles on the network using Active Directory.
+- Set up and monitor build, test, and deployments on the Git Hub/bitbucket.
+- Utilized Puppet to automate the configuration, management, and maintenance of server infrastructure, ensuring consistency across environments. Developed custom Puppet modules, managed manifests, and enforced desired state configurations for system updates, security patches, and application deployments.
+- We conduct OS updates and patch every 3 months on our servers.
+- Plans and implements system automation for better efficiency.
+- Create documentation using Confluence / Wiki.
+- Provide timely and accurate event notifications and incident logs.
+
+### SMS Global Technologies Inc., Philippines
+
+#### *Associate System Engineer* <time>January 2018 - September 2019</time>
+
+- Provided intensive support for the requirements of the projects. Completed the delivery project requirements and successfully deployed them in the production environment.
+- Developed a shell script that will execute the process automatically.
+- Completed OS Hardening/SRA provided by the client’s requirements.
+- Performed SAT and UAT before deploying the project.
+- Managed MOP validation prior to production implementation
+- Provided strong and quality transition/ knowledge transfer to the operations team.
+- Worked closely with clients to establish problem specifications and system requirements.
+- Create a Kafka producer java app that aligned with the given specification of the client
 
 ## Education
 
 ### Technological University of the Philippines Visayas
 
-#### *Bachelor of Science in Electronics Engineering* <time>April 2014</time>
+#### *Bachelor of Science in Electronics Engineering* <time>April 2017</time>
 
-## Trainings
+## Training
 
 <div class="columns">
   <div>
     <ul>
-      <li>Oracle Fusion SOA Bootcamp - Accenture - <i>2015</i></li>
-      <li>ADF Testing Bootcamp - Accenture - <i>2016</i></li>
-      <li>DevOps Academy - Accenture - <i>2016</i></li>
-      <li>Java Programming Masterclass - Amdocs - <i>2018</i></li>
+      <li>CSSLP - SMSGT - <i>2019</i></li>
+      <li>RHEL Training- Udemy - <i>2020</i></li>
+      <li>AWS Practitioner - Udemy - <i>2021</i></li>
+      <li>Python Training - Udemy - <i>2022</i></li>
     </ul>
   </div>
   <div>
     <ul>
-      <li>Python Programming - Udemy - <i>2019</i></li>
-      <li>Docker - Udemy - <i>2019</i></li>
-      <li>Jenkins - Udemy - <i>2020</i></li>
-      <li>Kubernetes - LinkedIn Learning - <i>2023</i></li>
+      <li>Terraform Training - Deltek/HashiCorp - <i>2023</i></li>
+      <li>AZ104 - Puma/Misnet - <i>2024</i></li>
+      <li>AZ700 - Puma/Misnet - <i>2025</i></li>
+      <li>AZ400 - Puma/Misnet - <i>2025</i></li>
     </ul>
   </div>
 </div>
 
+## Certification
+
+<div class="columns">
+  <div>
+    <ul>
+      <li>AZ400 - <i>Dec2024 - Dec2025</i></li>
+      <li>AZ700 - <i>March2025 - March2026</i></li>
+    </ul>
+  </div>
+  <div>
