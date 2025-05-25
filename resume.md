@@ -40,7 +40,7 @@ Cloud-focused System Engineer with over 8 years of experience in designing, depl
 
 ### Cardinal Health International, Philippines
 
-#### *Cloud Engineer (Infrastructure)* <time>OctoberJanuary 2024 - Nov 2024</time>
+#### *Cloud Engineer (Infrastructure)* <time>January 2024 - Nov 2024</time>
 
 - Manage and support hybrid cloud infrastructure across AWS, GCP, and on-prem environments, ensuring high availability and performance.
 - Respond to and resolve internal client requests, including break/fix issues and enhancement tasks, while maintaining service level agreements.
