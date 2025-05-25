@@ -7,16 +7,16 @@
 
 ## About me
 
-- Currently working as Associate Vice President at [Puma Sport Philippines Inc.](https://www.linkedin.com/company/puma/life/ourculture/) (Philippines)
+- Currently working as Infrastructure Specialist - System and Network at [Puma Sport Philippines Inc.](https://www.linkedin.com/company/puma/life/ourculture/) (Philippines)
 - Love for innovation and continues learning
-- Passionate about problem-solving, software development, and automation
-- Developing since 2015 with 8+ years of experience in Enterprise-wide software development
-- Currently exploring software containerization and orchestration such as [Docker](https://docker.com) and [Kubernetes](https://kubernetes.io)
-- Trying some simple web development projects with [React](https://react.dev)
+- System Engineer with 8+ years of experience designing and supporting scalable infrastructure across enterprise environments.
+- Specialize in Linux/Unix and Windows systems, with hands-on expertise in AWS, GCP, and Azure. 
+- Passionate about automation and cloud optimization, I streamline operations using Shell, Batch, and PowerShell scripting. 
+- Known for my adaptability, problem-solving skills, and commitment to delivering secure, high-performance solutions that drive business success.
 
 ## My specialties
 
-`Java` | `Big Data` | `Hadoop` | `Linux` | `Git` | `Python` | `Shell` | `Kafka` | `Confluent` | `HBase` | `DevOps` | `Jenkins` | `CI/CD` | `Oracle MySQL` | `Hive` | `JavaScript` | `Docker` | `Springboot` | `Postman` | `REST` | `Testing` | `Troubleshooting` 
+`MS Windows Server` | `Linux` | `Cloud` | `GitHub`|`Atlassian` | `Splunk` | `ServiceNow` | `Database` | `HTML` | `Python` | `Bash` | `PowerShell` | `OS Hardening/SRA` | `SAP BO` | `Ansible Tower` | `Terraform` | `CI/CD` |`Cygwin` | `Testing` | `Troubleshooting`
 
 ## How to reach me
 - Contact me at [axljeanayalin@gmail.com](mailto:axljeanayalin@gmail.com)
