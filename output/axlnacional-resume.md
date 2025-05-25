@@ -62,6 +62,12 @@ Cloud-focused System Engineer with over 8 years of experience in designing, depl
 
 #### *Senior Cloud Engineer* <time>November 2021 - January 2024</time>
 
+- Build and maintain SaaS environments, including application setup, configuration, and customer provisioning for Deltek products.
+- Perform server maintenance, security configurations, and manage vulnerability and audit compliance.
+- Provide L3/L4 technical support, troubleshoot complex issues, and lead internal process improvements.
+- Collaborate with global teams on application delivery and manage internal projects to completion.
+- Create and maintain automation tools, technical documentation, and support cloud release activities.
+
 #### Projects
 - **Project Migration UTM to Palo Alto** - Successfully led the seamless migration of an enterprise's Unified Threat Management (UTM) infrastructure to Palo Alto Networks, enhancing security and efficiency while ensuring uninterrupted business operations.
 - **Project NSAFT set-up for more than 1000 servers** - Implemented and configured SAF-T (Standard Audit File for Tax) across 1000 servers, streamlining financial data reporting and compliance processes with exceptional accuracy and efficiency.
