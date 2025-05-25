@@ -16,7 +16,7 @@ https://github.com/axlnacional · axljeanayalin@gmail.com · Philippines · [+63
 
 ## Profile Summary
 
-Cloud-focused System Engineer with over 8 years of experience in designing, deploying, and supporting scalable infrastructure solutions across enterprise environments. Demonstrates deep expertise in Linux/Unix (RedHat, CentOS/Rocky, Kali, SLES, Ubuntu) and Windows Server (2009–2022), with a strong emphasis on cloud platforms including AWS, Google Cloud Platform (GCP), and Microsoft Azure. Skilled in automating cloud operations using Shell, Batch, and PowerShell scripting to enhance system reliability and reduce manual overhead. Adept at troubleshooting complex issues, optimizing cloud resources, and implementing best practices for security and performance. Highly adaptable, proactive, and collaborative—committed to continuous learning and delivering cloud-native solutions that drive business value.
+System Engineer with over 8 years of experience in designing, deploying, and supporting scalable infrastructure solutions across enterprise environments. Demonstrates deep expertise in Linux/Unix (RedHat, CentOS/Rocky, Kali, SLES, Ubuntu) and Windows Server (2009–2022), with a strong emphasis on cloud platforms including AWS, Google Cloud Platform (GCP), and Microsoft Azure. Skilled in automating cloud operations using Shell, Batch, and PowerShell scripting to enhance system reliability and reduce manual overhead. Adept at troubleshooting complex issues, optimizing cloud resources, and implementing best practices for security and performance. Highly adaptable, proactive, and collaborative—committed to continuous learning and delivering cloud-native solutions that drive business value.
 
 ## Skills
 
