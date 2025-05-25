@@ -40,7 +40,7 @@ Cloud-focused System Engineer with over 8 years of experience in designing, depl
 
 ### Cardinal Health International, Philippines
 
-#### *Cloud Engineer (Infrastructure)* <time>OctoberJanuary 2024 - Nov 2024</time>
+#### *Cloud Engineer (Infrastructure)* <time>January 2024 - Nov 2024</time>
 
 - Manage and support hybrid cloud infrastructure across AWS, GCP, and on-prem environments, ensuring high availability and performance.
 - Respond to and resolve internal client requests, including break/fix issues and enhancement tasks, while maintaining service level agreements.
@@ -56,7 +56,7 @@ Cloud-focused System Engineer with over 8 years of experience in designing, depl
 
 #### Projects
 - **Gold Image (GCP)** - Maintained and standardized GCP Gold Images for multiple operating systems, including Windows Server (2012, 2019, 2022) and Linux distributions (CentOS 7, Rocky 8, RHEL 6–8, SLES 12.2–15), ensuring monthly updates with the latest security patches and compliance with organizational standards. Leveraged Terraform for infrastructure-as-code, Git for version control, and Concourse CI for automating the image build and deployment pipeline.
-- **Cross-platform auditing script ** - Developed and implemented a cross-platform auditing script using PowerShell and Bash to scan over 1,000 Windows and Linux servers, verifying the successful addition or removal of specific Active Directory (AD) groups. The solution was integrated and executed via Tanium, enabling automated, scalable, and efficient compliance checks across the enterprise environment.
+- **Cross-platform auditing script** - Developed and implemented a cross-platform auditing script using PowerShell and Bash to scan over 1,000 Windows and Linux servers, verifying the successful addition or removal of specific Active Directory (AD) groups. The solution was integrated and executed via Tanium, enabling automated, scalable, and efficient compliance checks across the enterprise environment.
 
 ### Deltek Systems Ltd., Philippines
 
