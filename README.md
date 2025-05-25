@@ -20,7 +20,7 @@
 
 ## How to reach me
 - Contact me at [axljeanayalin@gmail.com](mailto:axljeanayalin@gmail.com)
-- Checkout my resume here [📝](https://htmlpreview.github.io/?https://raw.githubusercontent.com/markarnaez/markarnaez/main/output/markarnaez-resume.html?sanitize=true), download it from here [⬇️](https://github.com/markarnaez/markarnaez/raw/main/output/markarnaez-resume.pdf) 
+- Checkout my resume here [📝](https://htmlpreview.github.io/?https://raw.githubusercontent.com/axlnacional/axlnacional/main/output/axlnacional-resume.html?sanitize=true), download it from here [⬇️](https://github.com/axlnacional/axlnacional/raw/main/output/axlnacional-resume.pdf) 
 
 ## Find me around the web
 [LinkedIn](https://https://linkedin.com/in/axljeannacional) | [Instagram](https://instagram.com/axleration01) | [Facebook](https://fb.com/axljeann)
