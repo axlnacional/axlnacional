@@ -7,7 +7,7 @@
 
 ## About me
 
-- Currently working as Infrastructure Specialist - System and Network at [Puma Sport Philippines Inc.](https://www.linkedin.com/company/puma/life/ourculture/) (Philippines)
+- Currently working as Infrastructure Specialist - System and Network at [PUMA Sports Philippines Inc.](https://www.linkedin.com/company/puma/life/ourculture/) (Philippines)
 - Love for innovation and continues learning
 - System Engineer with 8+ years of experience designing and supporting scalable infrastructure across enterprise environments.
 - Specialize in Linux/Unix and Windows systems, with hands-on expertise in AWS, GCP, and Azure. 
