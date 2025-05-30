@@ -28,7 +28,7 @@ System Engineer with over 8 years of experience in designing, deploying, and sup
 
 ## Experiences
 
-### Puma Sports Philippines Inc., Philippines
+### PUMA Sports Philippines Inc., Philippines
 
 #### *Infrastructure Specialist - System and Network* <time>November 2024 - Present</time>
 
