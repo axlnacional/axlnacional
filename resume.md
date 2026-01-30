@@ -30,7 +30,21 @@ Cloud-focused System Engineer with over 8 years of experience in designing, depl
 
 ### Puma Sports Philippines Inc., Philippines
 
-#### *Infrastructure Specialist - System and Network* <time>November 2024 - Present</time>
+#### *Cloud Engineer* <time>July 2025 - Preset</time>
+
+- Provide L2/L3 support for Azure and Google Cloud Platform infrastructure, ensuring high availability and timely resolution of cloud-related incidents and service requests.
+- Deploy, manage, and optimize cloud resources in Azure and GCP to support secure, scalable, and business-aligned solutions.
+- Develop and maintain Infrastructure as Code (IaC) using Terraform to standardize cloud deployments and improve operational efficiency.
+- Monitor cloud system performance, identify anomalies, and implement proactive improvements for performance, cost optimization, and scalability.
+- Collaborate with cross-functional teams to enforce security policies, compliance requirements, and adapt global standards across cloud environments.
+- Provide technical expertise for cloud initiatives and projects, continuously evaluating emerging technologies to drive platform improvements.
+
+#### Projects
+- **AVD Migration to Win10 to Win11 (Azure)** - Executed the migration of Azure Virtual Desktop session hosts from Windows 10 to Windows 11, ensuring application compatibility, security compliance, and minimal user disruption.
+- **Roomwizard Migration to new azure Subscription** - Redesigned and migrated the RoomWizard solution to a new Azure subscription, delivering a more efficient architecture to centrally manage and support all PUMA meeting rooms.
+- **Cost Optimization using Automation and runbooks** - Implemented automated runbooks to optimize cloud resource usage, reduce operational costs, and enforce efficient resource management across environments.
+
+#### *Infrastructure Specialist - System and Network* <time>November 2024 - July 2025</time>
 
 - Deliver 24/7 global L2/L3 support for cloud and on-prem systems, ensuring high availability and rapid resolution of incidents and service requests.
 - Perform Azure administration tasks, including resource provisioning, identity and access management, and monitoring to support scalable and secure cloud operations.
@@ -130,8 +144,9 @@ Cloud-focused System Engineer with over 8 years of experience in designing, depl
 <div class="columns">
   <div>
     <ul>
-      <li>AZ400 - <i>Dec2024 - Dec2025</i></li>
-      <li>AZ700 - <i>March2025 - March2026</i></li>
+      <li>AZ400 - <i>Dec2024 - Dec2026</i></li>
+      <li>AZ700 - <i>March2025 - March2027</i></li>
+      <li>AZ400 - <i>June2025 - June2027</i></li>
     </ul>
   </div>
   <div>
