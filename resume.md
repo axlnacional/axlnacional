@@ -30,7 +30,7 @@ Cloud-focused System Engineer with over 8 years of experience in designing, depl
 
 ### Puma Sports Philippines Inc., Philippines
 
-#### *Cloud Engineer* <time>July 2025 - Preset</time>
+#### *Cloud Engineer* <time>July 2025 - Present</time>
 
 - Provide L2/L3 support for Azure and Google Cloud Platform infrastructure, ensuring high availability and timely resolution of cloud-related incidents and service requests.
 - Deploy, manage, and optimize cloud resources in Azure and GCP to support secure, scalable, and business-aligned solutions.
