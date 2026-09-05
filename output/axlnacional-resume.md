@@ -1,6 +1,18 @@
+<link rel="stylesheet" type="text/css" href="resume-stylesheet.css">
+
+<!-- <span class="quote" style="color: gray; font-size: 0.8rem;">~ 2024-01-21 ~</span> -->
+
 # Ax'l Jean A. Nacional
 
-github.com/axlnacional · axljeanayalin@gmail.com · Philippines · +639166278431
+<div class="info">
+
+https://github.com/axlnacional · axljeanayalin@gmail.com · Philippines · [+639166278431](tel:+639166278431)
+
+</div>
+
+<!-- <div class="quote">
+"~ Every great developer you know got there by solving problems they were unqualified to solve until they actually did it. ~"
+</div> -->
 
 ---
 
@@ -33,7 +45,7 @@ System Engineer with over 8 years of experience in designing, deploying, and sup
 - Collaborate with cross-functional teams to enforce security policies, compliance requirements, and adapt global standards across cloud environments.
 - Provide technical expertise for cloud initiatives and projects, continuously evaluating emerging technologies to drive platform improvements.
 
-**Projects**
+#### Projects
 - **AVD Migration Win10 to Win11 (Azure)** — Executed the migration of Azure Virtual Desktop session hosts from Windows 10 to Windows 11 ahead of Win10 End of Life, ensuring application compatibility, security compliance, and minimal user disruption.
 - **RoomWizard Migration to New Azure Subscription** — Redesigned and migrated the RoomWizard solution to a new Azure subscription, delivering a more efficient architecture to centrally manage and support all PUMA meeting rooms.
 - **Cost Optimization via Automation and Runbooks** — Implemented automated runbooks to optimize cloud resource usage, reduce operational costs, and enforce efficient resource management across environments.
@@ -66,7 +78,7 @@ System Engineer with over 8 years of experience in designing, deploying, and sup
 - Ensured compliance with security standards and frameworks such as ITIL, PCI, ISO 27001, and SOX.
 - Administered and troubleshot systems including Windows, Linux, Active Directory, DNS, and storage technologies.
 
-**Projects**
+#### Projects
 - **Gold Image (GCP)** — Maintained and standardized GCP Gold Images for Windows Server (2012, 2019, 2022) and Linux (CentOS 7, Rocky 8, RHEL 6–8, SLES 12.2–15), ensuring monthly security patches and compliance. Leveraged Terraform, Git, and Concourse CI for automated image build and deployment pipelines.
 - **Cross-Platform Auditing Script** — Developed a PowerShell and Bash auditing script to scan over 1,000 Windows and Linux servers for AD group compliance, integrated and executed via Tanium for automated, scalable enterprise-wide checks.
 
@@ -82,7 +94,7 @@ System Engineer with over 8 years of experience in designing, deploying, and sup
 - Collaborated with global teams on application delivery and managed internal projects to completion.
 - Created and maintained automation tools, technical documentation, and supported cloud release activities.
 
-**Projects**
+#### Projects
 - **UTM to Palo Alto Migration** — Led the seamless migration of enterprise UTM infrastructure to Palo Alto Networks, enhancing security and efficiency while ensuring uninterrupted business operations.
 - **NSAFT Setup for 1,000+ Servers** — Implemented and configured SAF-T (Standard Audit File for Tax) across 1,000+ servers, streamlining financial data reporting and compliance processes.
 - **SSL Certificate Renewal Automation via Ansible Tower** — Engineered a robust automation solution using Ansible Tower to streamline SSL certificate renewal, enhancing security, minimizing downtime, and improving management across diverse server environments.
