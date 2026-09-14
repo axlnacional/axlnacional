@@ -148,8 +148,8 @@ System Engineer with over 8 years of experience in designing, deploying, and sup
 |---|---|
 | AZ-305 – Azure Solutions Architect Expert | September 2026 – September 2028 |
 | AZ-400 – Azure DevOps Engineer Expert | June 2025 – June 2027 |
-| AZ-700 – Azure Network Engineer Associate | March 2025 – March 2027 |
-| AZ-104 – Azure Administrator Associate | December 2024 – December 2026 |
+| AZ-700 – Azure Network Engineer Associate | March 2025 – March 2028 |
+| AZ-104 – Azure Administrator Associate | December 2024 – December 2027 |
 
 ---
 
