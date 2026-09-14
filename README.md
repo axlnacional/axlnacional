@@ -22,8 +22,8 @@
 |---|---|
 | AZ-305 – Azure Solutions Architect Expert | Sep 2026 – Sep 2028 |
 | AZ-400 – Azure DevOps Engineer Expert | Jun 2025 – Jun 2027 |
-| AZ-700 – Azure Network Engineer Associate | Mar 2025 – Mar 2027 |
-| AZ-104 – Azure Administrator Associate | Dec 2024 – Dec 2026 |
+| AZ-700 – Azure Network Engineer Associate | Mar 2025 – Mar 2028 |
+| AZ-104 – Azure Administrator Associate | Dec 2024 – Dec 2027 |
 
 ## How to reach me
 - Contact me at [axljeanayalin@gmail.com](mailto:axljeanayalin@gmail.com)
