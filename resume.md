@@ -18,14 +18,14 @@ https://github.com/axlnacional · axljeanayalin@gmail.com · Philippines · [+63
 
 ## Profile Summary
 
-System Engineer with over 8 years of experience in designing, deploying, and supporting scalable infrastructure solutions across enterprise environments. Demonstrates deep expertise in Linux/Unix (RedHat, CentOS/Rocky, Kali, SLES, Ubuntu) and Windows Server (2009–2025), with a strong emphasis on cloud platforms including AWS, Google Cloud Platform (GCP), and Microsoft Azure. Skilled in automating cloud operations using Shell, Batch, and PowerShell scripting to enhance system reliability and reduce manual overhead. Adept at troubleshooting complex issues, optimizing cloud resources, and implementing best practices for security and performance. Highly adaptable, proactive, and collaborative—committed to continuous learning and delivering cloud-native solutions that drive business value.
+System Engineer with over 8 years of experience in designing, deploying, and supporting scalable infrastructure solutions across enterprise and MSP environments. Demonstrates deep expertise in Linux/Unix (RedHat, CentOS/Rocky, Kali, SLES, Ubuntu) and Windows Server (2009–2025), with a strong emphasis on cloud platforms including AWS, Google Cloud Platform (GCP), and Microsoft Azure. Skilled in automating cloud operations using Shell, Batch, and PowerShell scripting to enhance system reliability and reduce manual overhead. Experienced in Palo Alto network security, Microsoft 365 administration, on-premises infrastructure, and hybrid cloud migrations. Adept at troubleshooting complex issues, optimizing cloud resources, and implementing best practices for security and performance. Highly adaptable, proactive, and collaborative—committed to continuous learning and delivering cloud-native solutions that drive business value.
 
 ---
 
 ## Skills
 
 **Technology**
-`MS Windows Server` `Linux` `Unix` `Ubuntu` `RHEL` `CentOS` `Kali` `SLES` `AWS` `GCP` `Azure` `Cloud` `Tomcat` `Nginx` `IIS` `Icinga` `DataDog` `Alertra` `PRTG` `Grafana` `Bitbucket` `GitHub` `SVN` `Jira` `ServiceDesk` `SalesForce` `Splunk` `ServiceNow` `MySQL` `Java` `HTML` `Python` `Bash` `PowerShell` `OS Hardening/SRA` `LAMP servers` `DHCP` `DNS` `FTP` `NTP` `SMTP` `SFTP` `Samba` `NFS` `Pentaho/ETL` `SAP BO` `Ansible Tower` `Terraform` `Cygwin` `MSSQL` `Oracle`
+`MS Windows Server` `Linux` `Unix` `Ubuntu` `RHEL` `CentOS` `Kali` `SLES` `AWS` `GCP` `Azure` `Cloud` `Tomcat` `Nginx` `IIS` `Icinga` `DataDog` `Alertra` `PRTG` `Grafana` `Bitbucket` `GitHub` `SVN` `Jira` `ServiceDesk` `SalesForce` `Splunk` `ServiceNow` `MySQL` `Java` `HTML` `Python` `Bash` `PowerShell` `OS Hardening/SRA` `LAMP servers` `DHCP` `DNS` `FTP` `NTP` `SMTP` `SFTP` `Samba` `NFS` `Pentaho/ETL` `SAP BO` `Ansible Tower` `Terraform` `Cygwin` `MSSQL` `Oracle` `Palo Alto` `M365` `Entra ID`
 
 **Technical**
 `Installation of services` `Automation` `Documentation` `Analytical thinking` `Troubleshooting` `SDLC` `Fast learner` `Out of box thinker` `Fluent in English (written and verbal)`
@@ -34,16 +34,33 @@ System Engineer with over 8 years of experience in designing, deploying, and sup
 
 ## Experience
 
+### Nuvinno, Philippines
+
+#### Senior Cloud Engineer — *November 2026 – Present*
+
+- Provide end-to-end cloud engineering and DevOps services across multiple client environments as part of a Managed Service Provider (MSP), covering infrastructure, automation, security, and operations.
+- Design and implement CI/CD pipelines and DevOps workflows using GitHub Actions and Azure DevOps, enabling automated build, test, and deployment processes for client applications and infrastructure.
+- Administer and troubleshoot Microsoft 365 tenants including Exchange Online, Entra ID, Teams, and SharePoint, ensuring continuity and seamless integration across client environments.
+- Deploy, manage, and optimize Azure infrastructure including virtual networks, Application Gateways, API Management, subscription provisioning, and identity and access management.
+- Configure and maintain Palo Alto firewall and network security policies, enforcing zero-trust and perimeter security controls across client environments.
+- Support and maintain on-premises infrastructure including Active Directory, DNS, networking components, and hybrid connectivity.
+- Plan and execute cloud and infrastructure migrations, including M365 tenant integrations and Azure resource transitions, ensuring minimal disruption and full compliance.
+- Develop and maintain Infrastructure as Code using Terraform, Bicep, and automation scripts to standardize deployments and reduce manual overhead across client environments.
+- Act as an all-around cloud engineer, delivering across cloud infrastructure, DevOps, networking, security, and M365 workloads to meet diverse MSP client needs.
+- Collaborate with cross-functional teams and vendors to deliver scalable, secure, and business-aligned cloud and hybrid solutions.
+
+---
+
 ### PUMA Sports Philippines Inc., Philippines
 
-#### Cloud Engineer — *July 2025 – Present*
+#### Cloud Engineer — *July 2025 – October 2026*
 
-- Provide L2/L3 support for Azure and Google Cloud Platform infrastructure, ensuring high availability and timely resolution of cloud-related incidents and service requests.
-- Deploy, manage, and optimize cloud resources in Azure and GCP to support secure, scalable, and business-aligned solutions.
-- Develop and maintain Infrastructure as Code (IaC) using Terraform to standardize cloud deployments and improve operational efficiency.
-- Monitor cloud system performance, identify anomalies, and implement proactive improvements for performance, cost optimization, and scalability.
-- Collaborate with cross-functional teams to enforce security policies, compliance requirements, and adapt global standards across cloud environments.
-- Provide technical expertise for cloud initiatives and projects, continuously evaluating emerging technologies to drive platform improvements.
+- Provided L2/L3 support for Azure and Google Cloud Platform infrastructure, ensuring high availability and timely resolution of cloud-related incidents and service requests.
+- Deployed, managed, and optimized cloud resources in Azure and GCP to support secure, scalable, and business-aligned solutions.
+- Developed and maintained Infrastructure as Code (IaC) using Terraform to standardize cloud deployments and improve operational efficiency.
+- Monitored cloud system performance, identified anomalies, and implemented proactive improvements for performance, cost optimization, and scalability.
+- Collaborated with cross-functional teams to enforce security policies, compliance requirements, and adapt global standards across cloud environments.
+- Provided technical expertise for cloud initiatives and projects, continuously evaluating emerging technologies to drive platform improvements.
 
 #### Projects
 - **AVD Migration Win10 to Win11 (Azure)** — Executed the migration of Azure Virtual Desktop session hosts from Windows 10 to Windows 11 ahead of Win10 End of Life, ensuring application compatibility, security compliance, and minimal user disruption.
@@ -57,6 +74,7 @@ System Engineer with over 8 years of experience in designing, deploying, and sup
 
 - Delivered 24/7 global L2/L3 support for cloud and on-prem systems, ensuring high availability and rapid resolution of incidents and service requests.
 - Performed Azure administration tasks including resource provisioning, identity and access management, and monitoring to support scalable and secure cloud operations.
+- Designed and deployed Palo Alto firewall configurations from scratch, including integration with Azure Virtual WAN (vWAN) to enable secure, scalable hub-and-spoke network connectivity across global environments.
 - Managed and maintained network infrastructure components such as firewalls, switches, SSL portals, and wireless access points, supporting secure connectivity.
 - Administered and audited Active Directory (AD) security groups and objects to support identity governance across hybrid environments.
 - Maintained and enhanced IT security systems including web filtering and endpoint protection to safeguard cloud and enterprise environments.
